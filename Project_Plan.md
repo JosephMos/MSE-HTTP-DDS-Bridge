@@ -43,5 +43,5 @@
 
 ---
 
-This WBS provides a structured approach to building the **MSE HTTP-DDS Bridge**, ensuring efficient development and maintainability. 🚀
+This WBS provides a structured approach to building the **MSE HTTP-DDS Bridge**, ensuring efficient development and maintainability.
 
